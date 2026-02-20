@@ -1,0 +1,110 @@
+[
+  {
+    "step": 1,
+    "timestamp_s": 21,
+    "title": "Inicio del flujo",
+    "action": "Entrar al administrador para registrar sensor de suelo y revisar estado actual.",
+    "evidence_text": "y quiero registrar o hacer mejor un menos encerno",
+    "seg_start": 21.0,
+    "seg_end": 25.0
+  },
+  {
+    "step": 2,
+    "timestamp_s": 46,
+    "title": "Sensor tipo vs sensor",
+    "action": "Aclarar que primero se valida/crea el tipo de sensor y luego el sensor/dispositivo.",
+    "evidence_text": "Por lo que estés, porque tenemos el sensor de tipo y el sensor.",
+    "seg_start": 46.0,
+    "seg_end": 50.0
+  },
+  {
+    "step": 3,
+    "timestamp_s": 72,
+    "title": "Reutilizar entidades existentes",
+    "action": "Si el sensor ya existe, no recrearlo; completar asociaciones faltantes.",
+    "evidence_text": "El sensor es probablemente tal no lo usas",
+    "seg_start": 72.0,
+    "seg_end": 75.0
+  },
+  {
+    "step": 4,
+    "timestamp_s": 193,
+    "title": "Diagnóstico principal",
+    "action": "La conductividad no aparecía por asociación incompleta de variables.",
+    "evidence_text": "Pero...",
+    "seg_start": 193.0,
+    "seg_end": 194.0
+  },
+  {
+    "step": 5,
+    "timestamp_s": 232,
+    "title": "Unidad de medida",
+    "action": "Conductividad en µS/cm según datasheet.",
+    "evidence_text": "¿En qué unidad de medida mía es la conductida?",
+    "seg_start": 232.0,
+    "seg_end": 235.0
+  },
+  {
+    "step": 6,
+    "timestamp_s": 264,
+    "title": "Variable existente",
+    "action": "Revisar variable existente de conductividad y ajustar etiqueta 'ambiental' si aplica.",
+    "evidence_text": "No, ambiental.",
+    "seg_start": 264.0,
+    "seg_end": 266.0
+  },
+  {
+    "step": 7,
+    "timestamp_s": 324,
+    "title": "Relación variable-sensor",
+    "action": "Ir a 'Variables en sensores' y crear relación nueva para sensor de suelo Wincontop.",
+    "evidence_text": "Hay que agregar unas. Hay que crear una relación nueva.",
+    "seg_start": 324.0,
+    "seg_end": 328.0
+  },
+  {
+    "step": 8,
+    "timestamp_s": 404,
+    "title": "Dispositivo objetivo",
+    "action": "Usar/duplicar dispositivo base y agregar segundo sensor (caso Soil 9).",
+    "evidence_text": "Y ese soil 9 le vamos a agregar el segundo sensor.",
+    "seg_start": 404.0,
+    "seg_end": 408.0
+  },
+  {
+    "step": 9,
+    "timestamp_s": 497,
+    "title": "Duplicación práctica",
+    "action": "Duplicar acelera, luego limpiar variables no usadas (p. ej. módem/GPS).",
+    "evidence_text": "¿Pauro...?",
+    "seg_start": 498.0,
+    "seg_end": 499.0
+  },
+  {
+    "step": 10,
+    "timestamp_s": 579,
+    "title": "Composición final",
+    "action": "Confirmar sensores: DHT22 + suelo + batería + módem + segundo sensor.",
+    "evidence_text": "Ya, tú se va a agregar sensor o digital.",
+    "seg_start": 579.0,
+    "seg_end": 583.0
+  },
+  {
+    "step": 11,
+    "timestamp_s": 648,
+    "title": "Mapeo en enlace",
+    "action": "Validar orden de variables en el link: temperatura aire, CE suelo, temperatura suelo, humedad suelo, etc.",
+    "evidence_text": "El 2?",
+    "seg_start": 648.0,
+    "seg_end": 649.0
+  },
+  {
+    "step": 12,
+    "timestamp_s": 703,
+    "title": "Cierre operativo",
+    "action": "Guardar, duplicar estaciones necesarias y validar telemetría/pop-up de creación.",
+    "evidence_text": "Por lo tanto, primero es temperatura de la aire.",
+    "seg_start": 702.0,
+    "seg_end": 705.0
+  }
+]

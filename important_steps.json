@@ -1,0 +1,66 @@
+[
+  {
+    "step": 1,
+    "start": 21.0,
+    "end": 25.0,
+    "timestamp": "00:00:21.200",
+    "text": "y quiero registrar o hacer mejor un menos encerno",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_01_0021s.jpg"
+  },
+  {
+    "step": 2,
+    "start": 46.0,
+    "end": 50.0,
+    "timestamp": "00:00:46.200",
+    "text": "Por lo que estés, porque tenemos el sensor de tipo y el sensor.",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_02_0046s.jpg"
+  },
+  {
+    "step": 3,
+    "start": 72.0,
+    "end": 75.0,
+    "timestamp": "00:01:12.200",
+    "text": "El sensor es probablemente tal no lo usas",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_03_0072s.jpg"
+  },
+  {
+    "step": 4,
+    "start": 83.0,
+    "end": 88.0,
+    "timestamp": "00:01:23.200",
+    "text": "Bueno, vamos a hacer el sensor de tipo sin crear un sensor tipo.",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_04_0083s.jpg"
+  },
+  {
+    "step": 5,
+    "start": 324.0,
+    "end": 328.0,
+    "timestamp": "00:05:24.200",
+    "text": "Hay que agregar unas. Hay que crear una relación nueva.",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_05_0324s.jpg"
+  },
+  {
+    "step": 6,
+    "start": 404.0,
+    "end": 408.0,
+    "timestamp": "00:06:44.200",
+    "text": "Y ese soil 9 le vamos a agregar el segundo sensor.",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_06_0404s.jpg"
+  },
+  {
+    "step": 7,
+    "start": 579.0,
+    "end": 583.0,
+    "timestamp": "00:09:39.200",
+    "text": "Ya, tú se va a agregar sensor o digital.",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_07_0579s.jpg"
+  },
+  {
+    "step": 8,
+    "start": 587.0,
+    "end": 590.0,
+    "timestamp": "00:09:47.200",
+    "text": "tiene un modem, entonces habría que agregarle un sensor.",
+    "frame": "C:\\Users\\Ale\\Documents\\Zoom\\2026-02-20 10.09.18 Reunión de Zoom de Alejandro Rebolledo\\analysis\\frames\\step_08_0587s.jpg"
+  }
+]
