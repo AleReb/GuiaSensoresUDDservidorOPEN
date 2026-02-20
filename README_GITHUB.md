@@ -40,6 +40,20 @@ Documentar un flujo operativo completo para configurar sensor de suelo Wincontop
   /frames/
 ```
 
+## Plataforma objetivo (web)
+
+- URL: `https://sensores.cmasccp.cl/registrar`
+
+### ¿Qué es esta página?
+
+La URL pertenece a la plataforma de sensores del **Centro de investigación en tecnologías para la sociedad (C+)** y corresponde al módulo de **registro/gestión de dispositivos**.
+
+Al revisar la web se observa:
+- Menú con secciones: **Inicio, Dashboard, Dispositivos, Datos, Protocolos, Banco de datos**.
+- Mensaje de **Acceso Restringido**: para ver contenido operativo se requiere iniciar sesión.
+
+Esto confirma que el flujo documentado en esta guía (tipo de sensor, variables en sensores, mapeo y validación) se ejecuta dentro de un entorno autenticado de esa plataforma.
+
 ## Recomendaciones antes de publicar
 
 - Corregir frases de ASR que puedan estar ambiguas (audio con ruido).
